@@ -6,6 +6,7 @@ https://github.com/samtechelectronics/REST_API_PROJECT.git
 
 2, once the application have been download , a command prompt terminal is opened at the location where the application was saved.
 3. the following command should be entered 
+
 composer install 
 php artisan migrate
 this is to migrate the tables to the database
