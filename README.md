@@ -8,11 +8,15 @@ https://github.com/samtechelectronics/REST_API_PROJECT.git
 3. the following command should be entered 
 
 composer install 
-php artisan migrate
-this is to migrate the tables to the database
+
+php artisan migrate //this is to migrate the tables to the database
+
 php artisan passport:client --password
+
 php artisan db:seed
+
 php artisan serve
+
 4. the application has the following routes which can be tested with POSTMAN
 /register    
 this a post API where a user can be registered on the system.
