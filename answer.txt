@@ -1,0 +1,10 @@
+Web Session Management Technigues
+
+1. Cookies
+2. HttpSession
+
+Difference between Authentication and Authorization
+
+ 
+Authentication is a technique  inwhich a system securely identifies its users.
+While Authorization is used to determine the level of access in a system a user who has been authenticated have wuthin application or system 
