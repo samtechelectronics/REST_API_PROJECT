@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="117.45141mm"
+   height="99.7314mm"
+   viewBox="0 0 117.45141 99.7314"
+   version="1.1"
+   id="svg4552"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="add_icon.svg">
+  <defs
+     id="defs4546">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5195">
+      <stop
+         style="stop-color:#d91d29;stop-opacity:1;"
+         offset="0"
+         id="stop5191" />
+      <stop
+         style="stop-color:#ef25d0;stop-opacity:1"
+         offset="1"
+         id="stop5193" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5195"
+       id="linearGradient5197"
+       x1="89.755783"
+       y1="110.58838"
+       x2="132.88208"
+       y2="142.43666"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="138.29044"
+     inkscape:cy="150.66082"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata4549">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.291254,-43.351764)">
+    <rect
+       style="fill:#ff6036;fill-opacity:1;stroke:#626262;stroke-width:1.12212181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect5099"
+       width="1.6210699"
+       height="36.008892"
+       x="-124.99263"
+       y="-25.349958"
+       transform="matrix(-0.55922202,-0.82901793,0.74632104,-0.66558613,0,0)"
+       ry="0.81310409" />
+    <circle
+       style="fill:#f86a14;fill-opacity:1;stroke:#626262;stroke-width:0.98597026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path5116"
+       cx="87.065407"
+       cy="75.67746"
+       r="9.5070152" />
+    <circle
+       style="fill:#832ed8;fill-opacity:1;stroke:#626262;stroke-width:1.48907912;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path5116-2"
+       cx="114.73469"
+       cy="79.569199"
+       r="14.358139" />
+    <rect
+       style="fill:#7bd251;fill-opacity:1;stroke:#626262;stroke-width:0.64319456;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect5133"
+       width="9.0250492"
+       height="7.3328505"
+       x="95.216805"
+       y="56.775246"
+       ry="1.5041746" />
+    <rect
+       style="fill:#ff6036;fill-opacity:1;stroke:#ec3131;stroke-width:1.29299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect4554-2"
+       width="57.730217"
+       height="47.306709"
+       x="75.188225"
+       y="95.296005"
+       ry="2.6726952" />
+    <rect
+       style="fill:#ff6036;fill-opacity:1;stroke:#626262;stroke-width:1.12212181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect5099-2"
+       width="1.6210699"
+       height="36.008892"
+       x="14.806067"
+       y="-199.64598"
+       transform="matrix(0.55922202,-0.82901793,-0.74632105,-0.66558612,0,0)"
+       ry="0.81310409" />
+  </g>
+</svg>
