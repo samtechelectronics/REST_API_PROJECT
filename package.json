@@ -30,7 +30,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "luxon": "^1.11.4",
     "vform": "^1.0.0",
     "vue-bootstrap-datetimepicker": "^5.0.1",
